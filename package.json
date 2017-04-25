@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "api documentation for [babili (v0.0.12)](https://github.com/babel/babili#readme) [![npm package](https://img.shields.io/npm/v/npmdoc-babili.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babili) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babili.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babili)",
+    "description": "#### basic api documentation for  [babili (v0.0.12)](https://github.com/babel/babili#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-babili.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babili) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babili.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babili)",
     "devDependencies": {
         "babili": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

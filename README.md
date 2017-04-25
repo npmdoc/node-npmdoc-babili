@@ -1,4 +1,7 @@
-# api documentation for  [babili (v0.0.12)](https://github.com/babel/babili#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-babili.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babili) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babili.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babili)
+# npmdoc-babili
+
+#### basic api documentation for  [babili (v0.0.12)](https://github.com/babel/babili#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-babili.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babili) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babili.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babili)
+
 #### ✂️ An ES6+ aware minifier based on the Babel toolchain (beta)
 
 [![NPM](https://nodei.co/npm/babili.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/babili)

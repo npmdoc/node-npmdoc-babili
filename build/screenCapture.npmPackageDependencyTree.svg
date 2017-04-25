@@ -33,9 +33,9 @@
 <tspan x="10" y="490">  │ │ │   └── loose-envify@1.3.1 </tspan>
 <tspan x="10" y="506">  │ │ ├─┬ babel-types@6.24.1 </tspan>
 <tspan x="10" y="522">  │ │ │ └── to-fast-properties@1.0.2 </tspan>
-<tspan x="10" y="538">  │ │ ├── babylon@6.16.1 </tspan>
-<tspan x="10" y="554">  │ │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="570">  │ │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="538">  │ │ ├── babylon@6.17.0 </tspan>
+<tspan x="10" y="554">  │ │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="570">  │ │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="586">  │ │ ├── json5@0.5.1 </tspan>
 <tspan x="10" y="602">  │ │ ├─┬ minimatch@3.0.3 </tspan>
 <tspan x="10" y="618">  │ │ │ └─┬ brace-expansion@1.1.7 </tspan>
@@ -119,7 +119,7 @@
 <tspan x="10" y="1866">  │ ├── path-is-absolute@1.0.1 </tspan>
 <tspan x="10" y="1882">  │ ├── slash@1.0.0 </tspan>
 <tspan x="10" y="1898">  │ ├── source-map@0.5.6 </tspan>
-<tspan x="10" y="1914">  │ └─┬ v8flags@2.0.12 </tspan>
+<tspan x="10" y="1914">  │ └─┬ v8flags@2.1.1 </tspan>
 <tspan x="10" y="1930">  │   └── user-home@1.1.1 </tspan>
 <tspan x="10" y="1946">  └─┬ babel-preset-babili@0.0.12 </tspan>
 <tspan x="10" y="1962">    ├─┬ babel-plugin-minify-builtins@0.0.2 </tspan>
